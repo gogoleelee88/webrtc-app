@@ -3,8 +3,12 @@
 실시간 화상통화를 지원하는 웹 애플리케이션입니다. WebRTC와 Socket.IO를 사용하여 P2P 방식의 화상통화를 구현했습니다.
 
 
+<<<<<<< HEAD:README.md
 ![WebRTC 화상통화 데모](./image/화상통화.gif)
 
+=======
+![GIF 설명](./image/WebRTC 화상통화 - Chrome 2025-07-31 11-16-33.gif)
+>>>>>>> 6de26fa51796e8c45530e2d67b395b307a1c047c:README
 ## ✨ 주요 기능
 
 - 🎬 **실시간 화상통화**: WebRTC를 사용한 고품질 화상통화
